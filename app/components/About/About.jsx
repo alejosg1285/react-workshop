@@ -9,7 +9,7 @@ const About = () =>
       <h3>
         This is the about page
       </h3>
-      <Link to='/'>Go to home</Link>
+      <a href="">Go to home</a>
     </div>
   );
 
